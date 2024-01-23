@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мой ИИ</string>
+    <string name="enter_msg">Введите сообщение</string>
+    <string name="pls_wait">Пожалуйста подождите…</string>
+    <string name="pls_type_query">Пожалуйста введите запрос…</string>
+    <string name="error">Ошибка: </string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My AI</string>
+    <string name="enter_msg">Type a message</string>
+    <string name="pls_wait">Please wait…</string>
+    <string name="pls_type_query">Please enter your query…</string>
+    <string name="error">Error: </string>
+</resources>
